@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/starnavi-app/static/js/main.262c5e97.js",
+    "index.html": "/starnavi-app/index.html",
+    "main.262c5e97.js.map": "/starnavi-app/static/js/main.262c5e97.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.262c5e97.js"
+  ]
+}
